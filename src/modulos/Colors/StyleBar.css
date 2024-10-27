@@ -1,0 +1,25 @@
+/* .home{
+    background-image: url(../../asset/CatREMOVE.png);
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap');
+
+.letra-bonita{
+    font-family: "DynaPuff";
+    font-weight: bold;
+    color: #ECF9F5;
+    text-shadow: 0 0 10px #fff;
+    letter-spacing: 4px;
+}
+.letra-bonita:hover{
+    color: #111;
+}
+.link-luz:hover{
+    text-shadow: 0 0 10px #ECF9F5;
+    color: #fff;
+}
+.item-lista{
+    border-radius: 3px;
+    background-color: #692A7E;
+    color: #ECF9F5;
+}
