@@ -1,4 +1,5 @@
 import React from 'react'
+import "../Colors/general.css"
 
 const Carrusel = () => {
     return (
@@ -6,6 +7,7 @@ const Carrusel = () => {
         <div className='w-75 mx-auto'> {/* Centrar el carrusel */}
             <div id="carouselExampleAutoplaying" className="carousel slide" data-bs-ride="carousel">
                 <div className="carousel-inner rounded-3">
+                    <h3 className="bg-dark p-3 text-center m-0 letra-grande-color" style={{borderBottom: "2px solid #e2ff52"}}>¡lo que proximamente estara en la tienda!</h3>
                     <div className="carousel-item active bg-dark">
                         <img 
                             src="https://static.ultima-affinity.com/catalog/8410650818719/3d-Pack/mediumImage" 

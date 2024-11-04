@@ -1,0 +1,7 @@
+.letra-grande-color{
+    text-shadow: 0 0 10px #fcff52,0 0 20px #fcff52;
+    color: #edff4e;
+    letter-spacing: 3px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
